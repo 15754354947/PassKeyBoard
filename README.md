@@ -8,4 +8,4 @@ first commit by xzh,2020.9.1
 
 #### It works on both the OnePlus 7 and the Meizu 16S.
 
-####The retrieved accelerometer data is in the \RecordData folder
+#### The retrieved accelerometer data is in the \RecordData folder.
